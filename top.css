@@ -1,0 +1,45 @@
+body {
+    background-color: aliceblue;
+    background-image:
+        url("food.jpg");
+}
+
+body h1 {
+    text-align: center;
+}
+
+
+/*.button {
+
+    background-color: red;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: rgba(30, 22, 54, 0.6);
+    box-shadow: rgba(30, 22, 54, 0.4) 0 0px 0px 2px inset;
+
+
+
+}
+
+.button:hover {
+    color: yellow;
+    box-shadow: rgba(30, 22, 54, 0.7) 0 0px 0px 40px inset;
+}*/
+
+
+.button {
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    padding: 0.25em 0.5em;
+    text-decoration: none;
+    color: #00BCD4;
+    background: #ECECEC;
+    transition: .4s;
+}
+
+.button:hover {
+    background: #00bcd4;
+    color: white;
+}
