@@ -1,3 +1,21 @@
+@media (max-width: 670px) {
+    body {
+        text-align: center;
+
+    }
+
+    body img {
+
+        box-sizing: border-box;
+        width: 70%;
+        margin-left: 15%;
+        margin-right: 15%;
+
+    }
+}
+
+
+
 body {
     text-align: center;
 }
