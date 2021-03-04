@@ -15,6 +15,9 @@
 }
 
 
+head title {
+    font-size: 50px;
+}
 
 body {
     text-align: center;
@@ -22,9 +25,9 @@ body {
 
 }
 
-.size {
-    font-size: 60px;
-}
+/*.size {
+    font-size: 50px;
+}*/
 
 .button {
     /*周りの凹み*/
