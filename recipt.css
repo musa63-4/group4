@@ -22,6 +22,7 @@ head title {
 body {
     text-align: center;
     background-color: #FFF5E3;
+    font-family: serif;
 
 }
 
@@ -191,4 +192,8 @@ li:before {
     height: 22px;
     width: 22px;
     border-radius: 50%;
+}
+
+.cooking_process {
+    word-wrap: normal;
 }
